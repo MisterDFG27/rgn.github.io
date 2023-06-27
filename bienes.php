@@ -88,7 +88,6 @@
             </div>
         </div>
     </div>
-    <!-- Navbar & Carousel End -->
 
 
 <?php include('includes/bodybienes.php');  ?>
