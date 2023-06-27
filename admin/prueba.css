@@ -1,0 +1,160 @@
+.contenedor-principal {
+    position: relative;
+    height: 100%;
+    padding-top: 80px;
+    /*z-index: -99;*/
+    margin-left: 250px;
+}
+
+#nuevo-provincia,
+#nueva-canton {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo,
+#nuevo-provincia .box-nuevo-tipo,
+#nueva-canton .box-nuevo-tipo {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#nuevo-tipo-propiedad h3,
+#nuevo-provincia h3,
+#nueva-canton h3 {
+    font-weight: normal;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo form,
+#nuevo-provincia .box-nuevo-tipo form,
+#nueva-canton .box-nuevo-tipo form {
+    max-width: 900px;
+    margin: auto;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo form input[type=text],
+#nuevo-provincia .box-nuevo-tipo form input[type=text],
+#nueva-canton .box-nuevo-tipo form input[type=text] {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 25px 0;
+}
+
+#nuevo-tipo-propiedad hr,
+#nuevo-provincia hr,
+#nueva-canton hr {
+    margin: 10px 0;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo,
+#nuevo-provincia .box-nuevo-tipo,
+#nueva-canton .box-nuevo-tipo {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#nuevo-tipo-propiedad h3,
+#nuevo-provincia h3,
+#nueva-canton h3 {
+    font-weight: normal;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo form,
+#nuevo-provincia .box-nuevo-tipo form,
+#nueva-canton .box-nuevo-tipo form {
+    max-width: 900px;
+    margin: auto;
+}
+
+#nuevo-tipo-propiedad .box-nuevo-tipo form input[type=text],
+#nuevo-provincia .box-nuevo-tipo form input[type=text],
+#nueva-canton .box-nuevo-tipo form input[type=text] {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 25px 0;
+}
+
+#listado-tipos-propiedades .contenedor-tabla,
+#listado-provincia .contenedor-tabla,
+#listado-canton .contenedor-tabla {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#listado-propiedades .contenedor-tabla {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#detalle-propiedad .contenedor-tabla {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+#listado-tipos-propiedades .contenedor-tabla,
+#listado-provincia .contenedor-tabla,
+#listado-canton .contenedor-tabla {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+
+.listados {
+    margin-top: 20px;
+    border-collapse: collapse;
+    text-align: left;
+    width: 600px;
+    max-width: 600px;
+}
+
+.listados tr:nth-child(odd) {
+    background: #dedede;
+}
+
+.listados tr {
+    border: 1px solid #ccc;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.listados td,
+th {
+    padding: 10px;
+}
+
+.listados th {
+    background-color: #c2c2c2;
+}
+
+.listados input {
+    border: none;
+    background-color: transparent;
+    color: #18ab84;
+    cursor: pointer;
+}
+
+.listados input:hover {
+    text-decoration: underline;
+}
+
