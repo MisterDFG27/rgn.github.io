@@ -1,9 +1,9 @@
 <?php
 //datos del servidor
 $server		="localhost";
-$username	="u356199086_admin";
-$password	="e3MCh6jmK/D";
-$bd			="u356199086_bdrgn";
+$username	="root";
+$password	="";
+$bd			="BD_INMOBILIARIA";
 
 //creamos una conexión
 $conn = mysqli_connect($server, $username, $password, $bd);
