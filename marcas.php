@@ -30,7 +30,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/stylemarca.css" rel="stylesheet">
+    <link href="css/stylemarca2.css" rel="stylesheet">
   
    <!-- <link href="estilo.css" rel="stylesheet">-->
 
